@@ -4,9 +4,7 @@
 
 ### Description
 
-### Components
-
-#### Classes
+### Classes
 **Card** 
 1. Initializes card paramaters value and suit
 2. Has a method `show(self)` that prints out the value and the suit (e.g. 4 of Hearts)
@@ -17,7 +15,7 @@
 
 **Computer**
 
-#### Functions
+### Functions
 **welcomeMesg()**
 
 **setName()**
