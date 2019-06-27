@@ -1,14 +1,12 @@
 # Blackjack
 
-## Two Versions - Main & MainSplit
+## Main.py
 
-### Main.py
+### Description
 
-#### Description
+### Components
 
-#### Components
-
-##### Classes
+#### Classes
 
 **Card** 
 1. Initializes card paramaters value and suit
@@ -20,7 +18,7 @@
 
 **Computer**
 
-####Functions
+#### Functions
 
 **welcomeMesg()**
 
