@@ -4,34 +4,42 @@
 
 ### Main.py
 
-*Classes*
-1. Card
+#### Description
 
-1. Deck
+#### Components
 
-1. Player
+##### Classes
 
-1. Computer
+**Card** 
+1. Initializes card paramaters value and suit
+2. Has a method `show(self)` that prints out the value and the suit (e.g. 4 of Hearts)
 
-*Functions*
-1. welcomeMesg()
+**Deck**
 
-1. setName()
+**Player**
 
-1. shuffle(deck)
+**Computer**
 
-1. dealCards(player, comp, deck)
+####Functions
 
-1. minBet()
+**welcomeMesg()**
 
-1. initialBet()
+**setName()**
 
-1. showStatus()
+**shuffle(deck)**
 
-1. bustMessage()
+**dealCards(player, comp, deck)**
 
-1. victMessage()
+**minBet()**
 
-1. finalMessage()
+**initialBet()**
+
+**showStatus()**
+
+**bustMessage()**
+
+**victMessage()**
+
+**finalMessage()**
 
 ### MainSplit.py
