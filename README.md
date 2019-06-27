@@ -1,6 +1,6 @@
 # Blackjack
 
-## 2 Versions
+## Two Versions - Main & MainSplit
 
 ### Main.py
 
