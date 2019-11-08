@@ -1,1 +1,1 @@
-# Blackjack with optional automation
+# Blackjack
